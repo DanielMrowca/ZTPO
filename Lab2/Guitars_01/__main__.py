@@ -1,6 +1,6 @@
 #!python3
 # -*- coding: utf-8 -*-
-__author__ = 'Wojtek'
+__author__ = 'Daniel'
 
 from guitar import InstrumentSpec, InstrumentType, Builder, Type, Wood
 from inventory import Inventory
